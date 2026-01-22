@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis Web Agent",
+  "description": "A real-time, voice-interactive AI assistant with a futuristic interface, powered by the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
